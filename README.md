@@ -2,6 +2,30 @@
 
 [![psoto-go 42 stats](https://badge42.herokuapp.com/api/stats/psoto-go)](https://github.com/JaeSeoKim/badge42)
 
+<table class="default">
+
+  <tr>
+
+    <td>Celda 1</td>
+
+    <td>Celda 2</td>
+
+    <td>Celda 3</td>
+
+  </tr>
+
+  <tr>
+
+    <td>Celda 4</td>
+
+    <td>Celda 5</td>
+
+    <td>Celda 6</td>
+
+  </tr>
+
+</table>
+
 [![psoto-go 42Project Score](https://badge42.herokuapp.com/api/project/psoto-go/BSQ)](https://github.com/JaeSeoKim/badge42)
 
 <!--
