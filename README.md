@@ -1,6 +1,6 @@
 ### Hi, I'm Pablo 👋
 
-[![psoto-go 42 stats](https://badge42.herokuapp.com/api/stats/psoto-go??cursus=Cursus)](https://github.com/JaeSeoKim/badge42)
+[![psoto-go 42 stats](https://badge42.herokuapp.com/api/stats/psoto-go?cursus=Cursus)](https://github.com/JaeSeoKim/badge42)
 
 [![psoto-go 42Project Score](https://badge42.herokuapp.com/api/project/psoto-go/ft_printf)](https://github.com/JaeSeoKim/badge42)
 
