@@ -3,8 +3,6 @@
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/psoto-go)](https://github.com/JaeSeoKim/badge42)
 
 <!--[![psoto-go 42Project Score](https://badge42.herokuapp.com/api/project/psoto-go/netwhat)](https://github.com/JaeSeoKim/badge42)-->
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/psoto-go)](https://github.com/JaeSeoKim/badge42)
-
 
 <!--
 **psoto-go/psoto-go** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
