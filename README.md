@@ -3,7 +3,7 @@
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/psoto-go)](https://github.com/JaeSeoKim/badge42)
 
 <!--[![psoto-go 42Project Score](https://badge42.herokuapp.com/api/project/psoto-go/netwhat)](https://github.com/JaeSeoKim/badge42)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psoto-go&layout=compact)](https://github.com/psoto-go)
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/psoto-go)](https://github.com/JaeSeoKim/badge42)
 
 
 <!--
